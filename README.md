@@ -1,2 +1,3 @@
 # cleanerdungeons
-nicer chat
+
+makes dungeon chat nicer by removing lots of annoying messages and cleaning up other messages
