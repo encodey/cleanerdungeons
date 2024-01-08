@@ -1,0 +1,9 @@
+{
+    "latestVersion": "1.0.0",
+    "changelog": [
+        "added general toggle",
+        "added custom prefix",
+        "added update checker"
+    ],
+    "author": "encodey"
+}
