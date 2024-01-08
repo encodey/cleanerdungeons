@@ -1,9 +1,10 @@
 {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "changelog": [
         "added general toggle",
         "added custom prefix",
-        "added update checker"
+        "added update checker",
+        "added /cd"
     ],
     "author": "encodey"
 }
